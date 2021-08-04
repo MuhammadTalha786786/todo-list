@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MuhammadTalha786786/todo-list/static/css/main.a617e044.chunk.css",
+    "main.js": "/MuhammadTalha786786/todo-list/static/js/main.09e55730.chunk.js",
+    "main.js.map": "/MuhammadTalha786786/todo-list/static/js/main.09e55730.chunk.js.map",
+    "runtime-main.js": "/MuhammadTalha786786/todo-list/static/js/runtime-main.cdc20fa8.js",
+    "runtime-main.js.map": "/MuhammadTalha786786/todo-list/static/js/runtime-main.cdc20fa8.js.map",
+    "static/js/2.3c4c0731.chunk.js": "/MuhammadTalha786786/todo-list/static/js/2.3c4c0731.chunk.js",
+    "static/js/2.3c4c0731.chunk.js.map": "/MuhammadTalha786786/todo-list/static/js/2.3c4c0731.chunk.js.map",
+    "static/js/3.3b0e378b.chunk.js": "/MuhammadTalha786786/todo-list/static/js/3.3b0e378b.chunk.js",
+    "static/js/3.3b0e378b.chunk.js.map": "/MuhammadTalha786786/todo-list/static/js/3.3b0e378b.chunk.js.map",
+    "index.html": "/MuhammadTalha786786/todo-list/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/MuhammadTalha786786/todo-list/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3c4c0731.chunk.js.LICENSE.txt": "/MuhammadTalha786786/todo-list/static/js/2.3c4c0731.chunk.js.LICENSE.txt",
+    "static/media/icon.414eb436.png": "/MuhammadTalha786786/todo-list/static/media/icon.414eb436.png",
+    "static/media/talha.e5fe24d2.png": "/MuhammadTalha786786/todo-list/static/media/talha.e5fe24d2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdc20fa8.js",
+    "static/js/2.3c4c0731.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.09e55730.chunk.js"
+  ]
+}
