@@ -5,7 +5,7 @@ import Todo from "./components/Todo";
 import AddTodo from "./components/AddTodo";
 import About from "./components/About";
 
-import { HashRouter, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import React, { useState, useEffect } from "react";
 
 function App() {
@@ -44,7 +44,7 @@ function App() {
   }, [todos]);
   return (
     <>
-      <HashRouter>
+      <Router basename={process.env.PUBLIC_URL}>
         <Header title="MyTodosList" />
         <Switch>
           <Route
@@ -65,7 +65,7 @@ function App() {
         </Switch>
 
         <Footer />
-      </HashRouter>
+      </Router>
     </>
   );
 }
