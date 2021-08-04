@@ -1,10 +1,10 @@
 import React from "react";
 import icon from "./icon.png";
-import { Link } from "react-router-dom";
+import { HashRouter, Link } from "react-router-dom";
 
 function Header(props) {
   return (
-    <div>
+    <HashRouter>
       <nav
         className="navbar navbar-expand-lg navbar-light "
         style={{ backgroundColor: "#041f20" }}
@@ -53,7 +53,7 @@ function Header(props) {
           </div>
         </div>
       </nav>
-    </div>
+    </HashRouter>
   );
 }
 
