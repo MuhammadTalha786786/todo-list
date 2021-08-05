@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Todo from "./components/Todo";
 import AddTodo from "./components/AddTodo";
 import About from "./components/About";
+import "./App.css";
 
 import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import React, { useState, useEffect } from "react";
