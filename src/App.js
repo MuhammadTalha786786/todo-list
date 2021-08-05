@@ -5,7 +5,7 @@ import Todo from "./components/Todo";
 import AddTodo from "./components/AddTodo";
 import About from "./components/About";
 
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import React, { useState, useEffect } from "react";
 
 function App() {
